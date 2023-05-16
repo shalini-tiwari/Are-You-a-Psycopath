@@ -1,2 +1,1 @@
-# Are-You-a-Psycopath_website
-Check whether you have psycopathic tendencies and see your score on the psycopath scale
+![Are-You-a-Psycopath](https://socialify.git.ci/shalini-tiwari/Are-You-a-Psycopath/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Auto)
